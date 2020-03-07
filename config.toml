@@ -1,4 +1,4 @@
-baseURL = "http://ph-yrittajalehti.fi"
+baseURL = "https://ph-yrittajalehti.fi/"
 languageCode = "fi"
 title = "PH-yrittäjälehti"
 theme = "ananke"
