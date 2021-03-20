@@ -1,14 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PH-yrittäjälehti</title>
-    <link>http://ph-yrittajalehti.fi/</link>
-    <description>Recent content on PH-yrittäjälehti</description>
+    <title>Päijät-Hämeen Yrittäjälehti on PH-Yrittäjälehti</title>
+    <link>https://ph-yrittajalehti.fi/</link>
+    <description>Recent content in Päijät-Hämeen Yrittäjälehti on PH-Yrittäjälehti</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fi</language>
+    <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://ph-yrittajalehti.fi/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ph-yrittajalehti.fi/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>PH-Yrittäjälehti</title>
+      <link>https://ph-yrittajalehti.fi/viimeaikaiset/ph-yrittaja/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ph-yrittajalehti.fi/viimeaikaiset/ph-yrittaja/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yhteys</title>
+      <link>https://ph-yrittajalehti.fi/yhteys/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ph-yrittajalehti.fi/yhteys/</guid>
+      <description>Piditkö lukemastasi? Haluatko nähdä oman yrityksesi mainittuna artikkelissa sivuillamme? Jos haluat, laita viestiä sähköpostiin asiakaspalvelu@ph-yrittajalehti.fi. Hyväksymme vieraskirjoituksia sivustollamme, kunhan ne ovat asianmukaisia ja käsittelevät sopivia kategorioita.
+Sopivia kategorioita vieraskirjoitukseen on:  yrittäjyys talous yrityksen toiminta yritysten rahoittaminen 
+Jos laitat vieraskynä-viestiä meille, olemme teihin yhteydessä 24h sisällä sähköpostin välityksellä.</description>
+    </item>
     
   </channel>
 </rss>

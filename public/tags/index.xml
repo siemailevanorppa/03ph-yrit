@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on PH-yrittäjälehti</title>
-    <link>http://ph-yrittajalehti.fi/tags/</link>
-    <description>Recent content in Tags on PH-yrittäjälehti</description>
+    <title>Tags on PH-Yrittäjälehti</title>
+    <link>https://ph-yrittajalehti.fi/tags/</link>
+    <description>Recent content in Tags on PH-Yrittäjälehti</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fi</language>
     
-	<atom:link href="http://ph-yrittajalehti.fi/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ph-yrittajalehti.fi/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

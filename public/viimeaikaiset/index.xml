@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on PH-Yrittäjälehti</title>
+    <link>https://ph-yrittajalehti.fi/viimeaikaiset/</link>
+    <description>Recent content in Posts on PH-Yrittäjälehti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fi</language>
+    <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ph-yrittajalehti.fi/viimeaikaiset/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PH-Yrittäjälehti</title>
+      <link>https://ph-yrittajalehti.fi/viimeaikaiset/ph-yrittaja/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ph-yrittajalehti.fi/viimeaikaiset/ph-yrittaja/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

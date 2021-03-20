@@ -1,0 +1,1 @@
+muista lisätä se <!--more--> aina ihan alkuun!

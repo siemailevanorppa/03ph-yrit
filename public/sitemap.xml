@@ -3,21 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://ph-yrittajalehti.fi/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>https://ph-yrittajalehti.fi/viimeaikaiset/ph-yrittaja/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://ph-yrittajalehti.fi/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>https://ph-yrittajalehti.fi/viimeaikaiset/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://ph-yrittajalehti.fi/tags/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>https://ph-yrittajalehti.fi/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ph-yrittajalehti.fi/yhteys/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ph-yrittajalehti.fi/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ph-yrittajalehti.fi/tags/</loc>
   </url>
   
 </urlset>
